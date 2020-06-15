@@ -1,0 +1,21 @@
+{
+    "git.ignoreLimitWarning": true,
+    "files.associations": {
+        "ostream": "cpp",
+        "iomanip": "cpp",
+        "algorithm": "cpp",
+        "vector": "cpp",
+        "regex": "cpp",
+        "xhash": "cpp",
+        "bitset": "cpp",
+        "iostream": "cpp",
+        "list": "cpp",
+        "deque": "cpp",
+        "map": "cpp",
+        "unordered_map": "cpp",
+        "xstring": "cpp",
+        "xtree": "cpp",
+        "queue": "cpp",
+        "unordered_set": "cpp"
+    }
+}
